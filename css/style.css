@@ -934,14 +934,14 @@ ul {
 }
 
 .intro {
-  background-image: url(../../images/bg-curvy-mobile.svg);
+  background-image: url(../images/bg-curvy-mobile.svg);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: bottom;
 }
 @media (min-width: 768px) {
   .intro {
-    background-image: url(../../images/bg-curvy-desktop.svg);
+    background-image: url(../images/bg-curvy-desktop.svg);
   }
 }
 .intro nav a {
